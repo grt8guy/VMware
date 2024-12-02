@@ -4,7 +4,7 @@
 
 .REQUIREMENTS
 
-        Powercli
+        PowerCLI, assuming Broadcom \ VMware PowerCLI is already installed
 
 .CREATOR
     John Braunsdorf
